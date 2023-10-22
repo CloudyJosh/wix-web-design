@@ -120,7 +120,13 @@ header a:hover{
 }
 #boxes .box img{
     width:100px;
+    height:110px;
 }
+#boxes .box2 img{
+    width:80px;
+    height:100px;
+}
+
 
 /* Sidebar */
 
