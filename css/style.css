@@ -74,9 +74,7 @@ header a:hover{
 
 #showcase{
     min-height: 400px;
-    background-image: linear-gradient(rgba(56, 55, 55, 0.55),rgba(56, 55, 55, 0.55)),url(/img/web-design.png);
-
-
+    background-image: linear-gradient(rgba(56, 55, 55, 0.55),rgba(56, 55, 55, 0.55)),url(../img/background.jpg);
     text-align: center;
     color:#fff;  
     background-position:-20px;
